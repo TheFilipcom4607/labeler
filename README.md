@@ -22,6 +22,8 @@ It is a vibecoded tool meant for my personal use, but the geometry is fully conf
 on any precut A4 sheet if you want to repurpose it. Everything runs in the browser with no install and
 no internet. Your filament library is saved locally and can be exported or imported as JSON.
 
+### Visit here: https://assets.thefilip.com/labeler
+
 ## Features
 
 **Labels**
@@ -53,7 +55,7 @@ no internet. Your filament library is saved locally and can be exported or impor
 
 ## Use
 
-1. Open it in a browser (https://assets.thefilip.com/labeler), CHROME is the most reliable in my testing.
+1. Open it in a browser, CHROME is the most reliable in my testing.
 2. Build your filament library: brand, material, color name, color swatch, and an optional URL for a QR.
 3. Turn on the display options you want (color bar, QR, cut ticks, section outlines).
 4. Pick a start position if you are reusing a part used sheet.
